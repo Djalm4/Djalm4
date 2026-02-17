@@ -1,6 +1,7 @@
 # Hi, I'm Djalma 👋
 
 🎓 Computer Engineering Student 
+
 💻 Backend Developer specializing in Java & Spring Boot  
 
 ---
